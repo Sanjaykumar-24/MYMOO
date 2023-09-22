@@ -1,5 +1,6 @@
 import React from 'react';
 import {
+  //none
   SafeAreaView,
   ScrollView,
   StatusBar,
@@ -18,9 +19,10 @@ function App(){
     <ImageBackground source={image} style={{flex:1}}>
     <View style={{width:"100%",height:"40%",backgroundColor:'white',flexDirection:'col',marginTop:"100%"}}>
     <View style={{flex:1,backgroundColor:'red'}}>
-    <Text>Welcome to the world</Text>
+    <Text>shesha</Text>
     </View>
     </View>
+    
     </ImageBackground>    
     </View>
   );
